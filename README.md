@@ -1,3 +1,5 @@
+![My Banner](https://path_to_your_image.com/banner.png)
+
 # 👋 Hey there! I'm Lara
 
 I’m a **Junior Software Developer** with a strong passion for **UI/UX**, **Web Development**, and **Databases**.  
