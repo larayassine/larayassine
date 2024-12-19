@@ -21,7 +21,8 @@ Currently working on building a **Habit Tracker** app, improving my coding skill
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/lara-yassine-922704218/)
 
 ## 📊 GitHub Stats:
-![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lara-dev&show_icons=true&count_private=true&hide=prs&theme=github_dark)
+![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larayassine&show_icons=true&count_private=true&hide=prs&theme=github_dark
+)
 
 
 
