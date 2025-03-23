@@ -1,20 +1,15 @@
 
 # 👋 Hey there! I'm Lara
 
-I’m a **Junior Software Developer** with a strong passion for **UI/UX**, **Web Development**, and **Databases**.  
-Currently working on building a **Habit Tracker** app, improving my coding skills, and expanding my knowledge in **Cybersecurity**.
+I’m a **Junior Software Developer** with a strong passion for **UI/UX** and **Web Development**
+Currently expanding my knowledge in **Cybersecurity**.
 
 ## 🛠️ Technologies & Tools I’m Using:
 - **Languages:** JavaScript, HTML, CSS, SQL
-- **Frontend:** React, Vue.js, CSS Frameworks (Bootstrap, Tailwind)
+- **Frontend:** React, CSS Frameworks (Bootstrap, Tailwind)
 - **Backend:** Node.js, Express, RESTful APIs
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB
 - **Version Control:** Git, GitHub
-
-## 🔭 What I'm Learning Right Now:
-- Mastering **React** and **Redux** for building scalable apps
-- Deep diving into **UI/UX Design** principles and tools like Figma
-- Exploring **Web Security** and **Ethical Hacking**
 
 
 ## 📫 Get in Touch:
